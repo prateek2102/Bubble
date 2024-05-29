@@ -1,7 +1,7 @@
 Welcome to the Bubble Game! This simple yet addictive game will keep you entertained for hours as you aim to pop as many bubbles as you can.
 
 How to Play
-Objective: Your goal is to pop as many bubbles as possible to score points.
+Objective: You aim to pop as many bubbles as possible to score points.
 
 Controls: Use your mouse or touchscreen to aim and click/tap to pop the bubbles.
 
@@ -18,6 +18,6 @@ Responsive Controls: Enjoy smooth gameplay with precise mouse or touchscreen con
 
 High Score Tracking: Compete with yourself or friends by aiming for the highest score.
 
-Endless Fun: With no time limit, you can play the Bubble Game for as long as you want.
+Endless Fun: With no time limit, you can play the Bubble Game for as long as you want. :)
 
-To play the game click this : https://bubblegames21.netlify.app/
+To play the game click this: https://bubblegames21.netlify.app/
